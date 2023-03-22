@@ -60,7 +60,7 @@ body{
     position: relative;
     height:100vh;
    
-    background-image: url(../exchange/images1/home-background.jpg);
+    background-image: url(../home-background.jpg);
     background-size: cover ;
 }
 .home-overlay{
